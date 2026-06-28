@@ -1,0 +1,33 @@
+# ===== .gitignore — mood. identidade visual =====
+
+# Dados sensíveis — NUNCA versionar
+_acessos/
+*acessos*
+*credenciais*
+*senha*
+*senhas*
+.env
+.env*
+*.env
+*token*
+*secret*
+*api-key*
+*apikey*
+chaves/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporários / backup
+*.tmp
+*.bak
+~$*
+*.log
+
+# OneDrive
+*.lnk
+
+# Ferramentas
+.playwright-mcp/
