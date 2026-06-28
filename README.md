@@ -1,15 +1,15 @@
-# mood. — Identidade Visual
+# mood. · Identidade Visual
 
-Identidade visual da **mood.** — Estruturação Empresarial com Inteligência Artificial.
+Identidade visual da **mood.**, Estruturação Empresarial com Inteligência Artificial.
 Itapeva/SP · [moodcomia.com.br](https://moodcomia.com.br)
 
-> Estrutura antes da escala. · Mapear · Organizar · Orquestrar · Desenvolver.
+> Estrutura antes da escala. Mapear, Organizar, Orquestrar, Desenvolver.
 
 ## Conteúdo
 
 | Pasta / arquivo | O que é |
 |---|---|
-| `Criação de logo e manual da marca/mood-brandbook/` | Manual da marca (16 páginas) em HTML, autossuficiente — abre em qualquer navegador, offline |
+| `Criação de logo e manual da marca/mood-brandbook/` | Manual da marca (16 páginas) em HTML, autossuficiente: abre em qualquer navegador, offline |
 | `Mood Board.pdf` | Painel de referências visuais da marca |
 | `Logos PNG/` | Arquivos de logo para uso (wordmark, monograma, versões para fundo claro/escuro/mono) |
 | `index.html` | Redireciona para o manual da marca (usado pelo GitHub Pages) |
@@ -33,5 +33,5 @@ marca (Mia = M+IA · Cinth·ia).
 
 ## Ver o manual
 
-- **Online (GitHub Pages):** ative em Settings → Pages → Branch `main` / pasta raiz.
+- **Online (GitHub Pages):** https://cinthia-mood.github.io/mood-identidade-visual/
 - **Local:** abra `Criação de logo e manual da marca/mood-brandbook/index.html` no navegador.
